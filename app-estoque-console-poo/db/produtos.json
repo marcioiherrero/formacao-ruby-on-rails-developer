@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1000,
+    "nome": "Maçã",
+    "descricao": "Maçã da turma da mõnica",
+    "preco": 2.5,
+    "qtde": 5
+  },
+  {
+    "id": 1001,
+    "nome": "Banana",
+    "descricao": "Banana nanica",
+    "preco": 1.5,
+    "qtde": 20
+  },
+  {
+    "id": 1723595558,
+    "nome": "Abobrinha",
+    "descricao": "Abobrinha da granja",
+    "preco": 2.5,
+    "qtde": 20
+  }
+]
